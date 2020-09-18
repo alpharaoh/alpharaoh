@@ -2,9 +2,9 @@
 <h3 align="center">I love learning, hacking and programming  </h3>
 
 <p align="center"> 
- <img align="left" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/ezgif.com-crop.gif" width="90%"><br />
+ <img align="left" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/ezgif.com-crop.gif" width="90%">
 </p>
-
+<br />
 <p align="left">
 
 - 💻  All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
