@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alpharaoh </h1>
 <h3 align="center">I love learning, hacking and programming  </h3>
 
-<p align="center"> 
+<p align="right"> 
  <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/1_UIlCwKWk6hl-RGTTJMXIwA.gif">
 </p>
 
