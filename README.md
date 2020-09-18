@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm alpharaoh </h1>
 <h3 align="center">I love learning, hacking and programming  </h3>
 
+<p align="center"> 
+ <img align="left" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/ezgif.com-crop.gif"
+</p>
+
 <p align="left">
 
 - 💻  All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
@@ -10,7 +14,7 @@
 
 <p align="center"> 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true" alt="alpharaoh" />
- <img align="right" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/working.gif" width="280">
+ <img align="right" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/working.gif" width="280"> <br />
 </p>
 
 <p align="center">
