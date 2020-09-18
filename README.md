@@ -1,18 +1,18 @@
 <h1 align="center"> Hi 👋 , I'm alpharaoh </h1>
 <h3 align="center"> I love learning, hacking and programming  </h3>
 
-- 🔭 I’m currently working on data structures and algorithms <br />
-- 🌱 I’m currently learning python
+- 🔭   I’m currently working on data structures and algorithms <br />
+- 🌱   I’m currently learning python
 
 <p align="center"> 
  <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/Screenshot%202020-09-18%20at%2021.43.43.png" width="80%">
 </p>
 <p align="left">
 
-- 💻  All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
-- 👨‍ All of my gists are available [here](https://gist.github.com/alpharaoh) <br />
-- 💬  Ask me about **anything** <br />
-- 📫  How to reach me **alpharaohh@gmail.com** <br />
+- 💻   All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
+- 👨‍  All of my gists are available [here](https://gist.github.com/alpharaoh) <br />
+- 💬   Ask me about **anything** <br />
+- 📫   How to reach me **alpharaohh@gmail.com** <br />
 
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true" alt="alpharaoh" height="200"/>
