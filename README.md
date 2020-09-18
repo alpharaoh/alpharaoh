@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=alpharaoh" alt="alpharaoh" style="top:2px"/>
+<img src="https://komarev.com/ghpvc/?username=alpharaoh" alt="alpharaoh" style="top:-10px"/>
 <a href="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" height="20" width="20" /></a>
   <a href="https://www.instagram.com/s.akaam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/s.akaam/" height="20" width="20" /></a>
  <a href="https://twitter.com/VadeEcon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/VadeEcon" height="20" width="20" /></a>
