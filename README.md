@@ -2,7 +2,7 @@
 <h3 align="center">I love learning, hacking and programming  </h3>
 
 <p align="center"> 
- <img align="left" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/ezgif.com-crop.gif" width="80%">
+ <img align="left" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/ezgif.com-crop.gif" width="90%">
 </p>
 
 <p align="left">
