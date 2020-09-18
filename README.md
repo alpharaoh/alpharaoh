@@ -4,7 +4,6 @@
 <p align="center"> 
  <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/ezgif.com-crop.gif" width="90%">
 </p>
-<br />
 <p align="left">
 
 - 💻  All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
