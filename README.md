@@ -3,12 +3,10 @@
 
 <p align="left">
 
-- 💻  All of my projects are available [here](https://github.com/alpharaoh?tab=repositories)
-- 👨‍ All of my gists are available [here](https://gist.github.com/alpharaoh)
-
-- 💬  Ask me about **anything**
-
-- 📫  How to reach me **alpharaohh@gmail.com**
+- 💻  All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
+- 👨‍ All of my gists are available [here](https://gist.github.com/alpharaoh) <br />
+- 💬  Ask me about **anything** <br />
+- 📫  How to reach me **alpharaohh@gmail.com** <br />
 
 <p align="center"> 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true" alt="alpharaoh" />
