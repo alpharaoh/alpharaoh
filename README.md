@@ -11,8 +11,7 @@
 - 📫 How to reach me **alpharaohh@gmail.com**
 
 <p align="right"> 
- <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/1_UIlCwKWk6hl-RGTTJMXIwA.gif" width="42">
-</p>
+ <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/1_UIlCwKWk6hl-RGTTJMXIwA.gif" width="400">
 
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true" alt="alpharaoh" />
