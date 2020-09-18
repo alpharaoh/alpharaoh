@@ -10,12 +10,9 @@
 
 - 📫 How to reach me **alpharaohh@gmail.com**
 
-<p align="right"> 
- 
-
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true" alt="alpharaoh" />
- <img align="right" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/1_UIlCwKWk6hl-RGTTJMXIwA.gif" width="400">
+ <img align="right" src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/1_UIlCwKWk6hl-RGTTJMXIwA.gif" width="350">
 </p>
 
 <p align="center">
