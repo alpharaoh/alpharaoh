@@ -2,7 +2,7 @@
 <h3 align="center"> I love learning, hacking and programming  </h3>
 
 - 🔭    I’m currently working on data structures and algorithms <br />
-- 🌱    I’m currently learning python and java
+- 🌱    I’m currently learning Python and Java
 
 <p align="center"> 
  <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/Screenshot%202020-09-18%20at%2021.43.43.png" width="80%">
