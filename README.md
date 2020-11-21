@@ -1,12 +1,27 @@
-<h1 align="center"> Hi 👋 , I'm alpharaoh </h1>
-<h3 align="center"> I love learning, hacking and programming  </h3>
+<h1 align="center"> Hi 👋 , I'm Akaam </h1>
+<h3 align="center"> I love learning.  </h3>
 
 - 🔭    I’m currently working on data structures and algorithms <br />
-- 🌱    I’m currently learning Python and Java
+- 🌱    I’m currently learning Machine Learning and Data Science <br />
 
-<p align="center"> 
- <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/Screenshot%202020-09-18%20at%2021.43.43.png" width="80%">
+### Languages and Tools:
+<p align="left"> 
+  <img title="Python" align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> \
+  <img title="Java" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img title="mySQL" align="left" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original.svg" alt="mySQL" width="40" height="40"/> 
+  <img title="Jupyter" align="left" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
+  <img title="JavaScript" align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
+  <img title="C#" align="left" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
+  <img title="Bash" align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  <img title="Linux" align="left" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img title="Debian" align="left" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/debian/debian-original.svg" alt="bash" width="40" height="40"/> 
+  <img title="Git" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img title="Tensorflow" align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img title="OpenCV" align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  <img title="HTML5" align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img title="CSS3" align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
+<br />
 <p align="left">
 
 - 💻    All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
