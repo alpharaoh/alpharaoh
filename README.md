@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 , I'm Akaam </h1>
 <h3 align="center"> I love learning.  </h3>
 
-- 🔭    I’m currently working on Interview Questions <br />
+- 🔭    I’m currently working on an [Object Detection Project](https://github.com/alpharaoh/Machine-Learning/tree/main/Projects/MDAI) <br />
 - 🌱    I’m currently learning Machine Learning and Data Science <br />
 
 ### Languages and Tools:
