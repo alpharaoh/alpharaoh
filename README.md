@@ -35,8 +35,8 @@
  <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/working.gif" height="200"> <br />
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" height="20" width="20" /></a>
-  <a href="https://www.instagram.com/s.akaam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/s.akaam/" height="20" width="20" /></a>
- <a href="https://twitter.com/VadeEcon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/VadeEcon" height="20" width="20" /></a> - <img src="https://komarev.com/ghpvc/?username=alpharaoh" alt="alpharaoh" height="20"/>
+<a href="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" height="20" width="20" /></a>
+<a href="https://www.instagram.com/s.akaam/" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="https://www.instagram.com/s.akaam/" height="20" width="20" /></a>
+<a href="https://twitter.com/VadeEcon" target="blank"><img align="center" src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="https://twitter.com/VadeEcon" height="20" width="20" /></a> * <img src="https://komarev.com/ghpvc/?username=alpharaoh" alt="alpharaoh" height="20"/>
 </p>
 
