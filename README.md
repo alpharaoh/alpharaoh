@@ -11,7 +11,7 @@
   <img title="mySQL" align="left" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original.svg" alt="mySQL" width="40" height="40"/> 
   <img title="Jupyter" align="left" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
   <img title="JavaScript" align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
-  <img title="Typescript" align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="reactnative" width="40" height="40"/> 
+  <img title="Typescript" align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="reactnative" width="35" height="35"/> 
   <img title="React" align="left" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   <img title="Redux" align="left" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="reactnative" width="40" height="40"/> 
   <img title="Postgresql" align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="reactnative" width="40" height="40"/> 
@@ -24,8 +24,8 @@
   <img title="Git" align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img title="Tensorflow" align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img title="OpenCV" align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  <img title="CSS" align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/css.svg" alt="html5" width="40" height="40"/>
   <img title="HTML5" align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
-  <img title="HTML5" align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/css.svg" alt="html5" width="40" height="40"/>
 
 
 </p>
