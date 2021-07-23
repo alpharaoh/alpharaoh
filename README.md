@@ -42,7 +42,7 @@
 - 📫    How to reach me **alpharaohh@gmail.com** <br />
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true&theme=algolia" alt="alpharaoh" height="200"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0c1117&hide=contribs,issues" alt="alpharaoh" height="200"/>
  <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/working.gif" height="200"> <br />
 </p>
 <p align="center">
