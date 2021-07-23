@@ -42,8 +42,8 @@
 - 📫    How to reach me **alpharaohh@gmail.com** <br />
 
 <p align="center"> 
- <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0c1117&hide=contribs,issues" alt="alpharaoh" height="200"/>
- <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/working.gif" height="200"> <br />
+ <img src="https://github-readme-stats.vercel.app/api?username=alpharaoh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0c1117&hide=contribs,issues" alt="alpharaoh" height="170"/>
+ <img src="https://github.com/alpharaoh/alpharaoh/blob/master/graphics/working.gif" height="170"> <br />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" target="blank"><img align="center" src="https://www.icscomms.co.uk/wp-content/uploads/2018/03/LinkedIn.svg" alt="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" height="30" width="30" /></a>
