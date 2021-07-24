@@ -25,7 +25,7 @@
   <img title="Tensorflow" align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   <img title="OpenCV" align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img title="NumPy" align="left" src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> 
-  <img title="CSS" align="left" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/css.svg" alt="html5" width="40" height="40"/>
+  <img title="CSS" align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="40" height="40"/>
   <img title="HTML5" align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
 
 
