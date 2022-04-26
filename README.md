@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋 , I'm Akaam </h1>
 <h3 align="center"> I love learning.  </h3>
 
-- 🔭    I’m currently working on [commissioned work using React/React Native](https://interfilm.dk/) <br />
+- 🔭    I’m currently working at [Quantum Boost](https://www.quantumboost.com/) as a React Developer<br />
 - 🌱    I’m currently learning Machine Learning and Data Science <br />
 - 📝    Check out [my blog](https://www.akaam.co.uk/blog/how-cleverness-can-get-you-a-ml-dataset-of-10-000-images-part-1) <br />
 
