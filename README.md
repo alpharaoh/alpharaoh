@@ -3,7 +3,7 @@
 
 - 🔭    I’m currently working full-time at [Quantum Boost](https://www.quantumboost.com/) as a Software Engineer<br />
 - 🌱    I’m currently learning Machine Learning and Data Science <br />
-- 📝    Check out [my blog](https://www.akaam.co.uk/blog/how-cleverness-can-get-you-a-ml-dataset-of-10-000-images-part-1) <br />
+- 📝    Check out [my personal website](https://www.akaam.dev/) <br />
 
 ### Languages and Tools:
 <p align="left"> 
