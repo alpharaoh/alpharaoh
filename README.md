@@ -1,10 +1,3 @@
-<h1 align="center"> Hi 👋 , I'm Akaam </h1>
-<h3 align="center"> I love learning.  </h3>
-
-- 🔭    I’m currently working full-time at [Quantum Boost](https://www.quantumboost.com/) as a Software Engineer<br />
-- 🌱    I’m currently learning Machine Learning and Data Science <br />
-- 📝    Check out [my personal website](https://www.akaam.dev/) <br />
-
 ### Languages and Tools:
 <p align="left"> 
   <img title="Python" align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
