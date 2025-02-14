@@ -52,7 +52,7 @@
 
 <a href="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="https://www.linkedin.com/in/akaam-shamerany-b3917b1a4/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/s.akaam/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="https://www.instagram.com/s.akaam/" height="30" width="30" /></a>
-<a href="https://twitter.com/VadeEcon" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="https://twitter.com/VadeEcon" height="30" width="30" /></a>
+<a href="https://x.com/alpharaohh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="https://twitter.com/VadeEcon" height="30" width="30" /></a>
   <!-- <img src="https://komarev.com/ghpvc/?username=alpharaoh" alt="alpharaoh" height="20"/> -->
 <!-- </p> -->
 
