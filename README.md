@@ -2,6 +2,8 @@
 
 #### Building AI Agents at [11x.ai](https://www.11x.ai/) 👨🏻‍💻
 
+Learn more about me on my [personal website](https://www.akaam.dev/).
+
 ----
 
 <!-- <p align="left"> --> 
@@ -36,11 +38,11 @@
 <!-- <br /> -->
 <!-- <p align="left"> -->
 <!-- <br /> -->
-  
-- 💻    All of my projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
-- 👨‍   All of my gists are available [here](https://gist.github.com/alpharaoh) <br />
-- 💬    Ask me about **anything** <br />
-- 📫    How to reach me **alpharaohh@gmail.com** <br />
+
+- 💻   Projects are available [here](https://github.com/alpharaoh?tab=repositories) <br />
+- 👨‍   Gists are available [here](https://gist.github.com/alpharaoh) <br />
+- 💬   Ask me about **anything** <br />
+- 📫   Reach me at **info@akaam.dev** <br />
 
 <!-- <p align="center"> -->
 <!--  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alpharaoh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0c1117&hide=contribs,issues" alt="alpharaoh" height="170"/> -->
